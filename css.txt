@@ -1,0 +1,17 @@
+671:changed transform from scale to translate3d
+741:changed display from flex to grid
+840: changed display from flex
+862:changed background color to pink
+917:from .blog-card { box-shadow: var(--shadow-2); } to .blog-card { box-shadow: var(--shadow--); }
+929: img { transform: scale(1.1); } to img { transform: rotate(180deg); }
+935:changed dipsly from flex to grid
+953: changed color from orange-spda to yellow-green
+960:changed color from orange-soda to misty-rose
+990: changed background from orange soda to cadet
+1016: changed gap from 10px to 200px
+1026:changed color from white to blue making the text invisible when hovered.
+1041: changed background from raisin-black-1 to prussian-blue
+1085: changed color from orange soda to Prussian blue making the contact and email text invisble on hovering.
+1116: text align from center to left
+1487: changed justify content from space-between to center
+1489: changed padding from 50px to 200px

@@ -1,0 +1,8 @@
+1073: changed icon name to pricetags from person
+1081: changed icon name from pricetags to person
+reordered the items inside picture cards of latest news feeds.
+line 1233: changed the question mark symbol to !!
+correct code: <h2 class="h2 card-title">Looking for a dream home?</h2>
+1235: changed the normal text to morse code.
+line 1241 : arrow button changed to point backwards from forward direction
+correct code: <ion-icon name="arrow-forward-outline"></ion-icon>
